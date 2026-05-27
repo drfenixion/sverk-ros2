@@ -14,10 +14,6 @@
 	path = peripheral/camera_ros
 	url = https://github.com/drfenixion/camera_ros.git
 	branch = main
-[submodule "px4/Micro-XRCE-DDS-Agent"]
-	path = px4/Micro-XRCE-DDS-Agent
-	url = https://github.com/drfenixion/Micro-XRCE-DDS-Agent.git
-	branch = ros2
 [submodule "odometry/vpe/px4-ros2-interface-lib"]
 	path = odometry/vpe/px4-ros2-interface-lib
 	url = https://github.com/drfenixion/px4-ros2-interface-lib.git
