@@ -17,4 +17,4 @@
 [submodule "odometry/vpe/px4-ros2-interface-lib"]
 	path = odometry/vpe/px4-ros2-interface-lib
 	url = https://github.com/drfenixion/px4-ros2-interface-lib.git
-	branch = release/1.16
+	branch = main
