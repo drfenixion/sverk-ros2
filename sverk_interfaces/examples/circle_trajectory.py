@@ -28,7 +28,7 @@ try:
     start = drone.controll.get_telemetry(frame_id="map")
 
     # Takeoff / climb.
-    target_z = start.z, 1.0
+    target_z = start.z + 1.0
 
     start_time = time.monotonic()
     rate = 10.0  # Hz
